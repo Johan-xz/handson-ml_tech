@@ -1,2 +1,1 @@
-A branch documentation, this is a message after nano command
-
+The B branch approved this documentation
